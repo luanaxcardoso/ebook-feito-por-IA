@@ -1,4 +1,7 @@
-# Projeto EBOOK Gerado por I.A.s
+<p align="center">
+    # Projeto EBOOK Gerado por I.A.s
+    ## Explorando Python
+</p>
 
 <p align="center">
     <img width="100" src=".github/assets/banner.png">
@@ -55,12 +58,13 @@ Microsoft Copilot：
 - Imagens utilizadas em `assets`
 - Ebook gerado no Canva `output`
 
-<p>
+##
+
+<p align="center">
     <img 
-      align=left 
       margin=10 
       width=80 
       src="https://avatars.githubusercontent.com/u/112970416?v=4"
     />
-    <strong>Luana Cardoso</strong>
 </p>
+<p> <strong>Luana Cardoso</strong> </p>
