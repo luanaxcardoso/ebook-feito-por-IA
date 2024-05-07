@@ -55,7 +55,7 @@ Microsoft Copilot：
 
 ##
 
-<p align="center">
+<p align="left">
     <img 
       margin=10 
       width=80 
