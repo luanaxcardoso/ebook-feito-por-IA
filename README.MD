@@ -21,7 +21,7 @@
 </p>
 
 
-* Este é um repositório desenvolvido para o Bootcamp do Santander sobre IA, pela plataforma da  [DIO](https://dio.me) e através dos ensinamentos do instrutor técnico [Felipe Aguiar](https://github.com/felipeAguiarCode) 
+* 📍Ebook desenvolvido para o Bootcamp do Santander sobre IA, pela plataforma da  [DIO](https://dio.me) e através dos ensinamentos do instrutor [Felipe Aguiar](https://github.com/felipeAguiarCode) 
 
 --------
 
@@ -32,7 +32,6 @@
 - [Canva](https://www.canva.com/)
 
 ## ✨ Comandos
-
 
 ChatGPT：
 
@@ -57,7 +56,7 @@ Microsoft Copilot：
 
 - Imagens utilizadas em `assets`
 - Ebook gerado no Canva `output`
-
+--------
 ##
 
 <p align="left">
@@ -69,4 +68,4 @@ Microsoft Copilot：
 </p>
 <p> <strong>Desenvolvido por</strong> </p> 
 <p> <strong>Luana Cardoso</strong> </p>
-
+--------
