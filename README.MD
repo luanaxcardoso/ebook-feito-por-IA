@@ -1,4 +1,5 @@
-<h1> Projeto EBOOK Gerado por I.A.s 🤖</h1>
+
+<h1 align="center"> Projeto EBOOK Gerado por I.A.s 🤖</h1>
 
 <p align="center">
     <img width="100" src=".github/assets/banner.png">
