@@ -15,7 +15,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/capa.png"
     width="400"  
 />
 </p>
@@ -60,7 +60,7 @@ Microsoft Copilot：
 
 ##
 
-<p align="center">
+<p align="left">
     <img 
       margin=10 
       width=80 
