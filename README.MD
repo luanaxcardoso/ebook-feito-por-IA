@@ -56,7 +56,7 @@ Microsoft Copilot：
 
 - Imagens utilizadas em `assets`
 - Ebook gerado no Canva `output`
---------
+
 ##
 
 <p align="left">
@@ -68,4 +68,4 @@ Microsoft Copilot：
 </p>
 <p> <strong>Desenvolvido por</strong> </p> 
 <p> <strong>Luana Cardoso</strong> </p>
---------
+##
