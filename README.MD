@@ -65,4 +65,5 @@ Microsoft Copilot：
       src="https://avatars.githubusercontent.com/u/112970416?v=4"
     />
 </p>
+<p> <strong>Desenvolvido por</strong> </p> 
 <p> <strong>Luana Cardoso</strong> </p>
