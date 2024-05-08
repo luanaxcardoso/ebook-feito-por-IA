@@ -6,7 +6,9 @@
 </p>
 
 -------
+<p align="center">
 <a href="https://github.com/luanaxcardoso/ebook-feito-por-IA/blob/main/output/Explorando-Python.pdf">Acesse o projeto aqui 🤖🐍 </a>
+</p>
 --------
 
 <p align="center">
