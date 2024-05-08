@@ -5,6 +5,10 @@
     <img width="100" src=".github/assets/banner.png">
 </p>
 
+-------
+<a href="https://github.com/luanaxcardoso/ebook-feito-por-IA/blob/main/output/Explorando-Python.pdf">Acesse o projeto aqui 🤖🐍 </a>
+
+--------
 <p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
@@ -67,3 +71,4 @@ Microsoft Copilot：
 </p>
 <p> <strong>Desenvolvido por</strong> </p> 
 <p> <strong>Luana Cardoso</strong> </p>
+
