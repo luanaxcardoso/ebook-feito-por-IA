@@ -1,9 +1,4 @@
 <p align="center">
-    # Projeto EBOOK Gerado por I.A.s
-    ## Explorando Python
-</p>
-
-<p align="center">
     <img width="100" src=".github/assets/banner.png">
 </p>
 
