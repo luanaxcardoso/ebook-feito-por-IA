@@ -23,7 +23,7 @@
 </p>
 
 
- > ℹ️ **NOTE:** Este é um repositório desenvolvido para o Bootcamp sobre IA do Santander pela plataforma da  [DIO](https://dio.me) e através dos ensinamentos do instrutor técnico Felipe Aguiar.
+*** Este é um repositório desenvolvido para o Bootcamp do Santander sobre IA, pela plataforma da  [DIO](https://dio.me) e através dos ensinamentos do instrutor técnico Felipe Aguiar. ***
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 
@@ -33,7 +33,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 - [Microsoft Copilot](https://www.microsoft.com/pt-br/copilot)
 - [Canva](https://www.canva.com/)
 
-## 🧠 Prompts
+## ✨ Comandos
 
 
 ChatGPT：
@@ -49,13 +49,13 @@ Microsoft Copilot：
 | :----: | -------------------------------------------------------------------------------------- |
 | Imagens | geradas para o ebook de Python para iniciantes, com fundo espacial, elegante e moderno.
 
-## ✨ Features
+## ✨ Recursos
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Microsoft Copilot
 - Diagramação via Canva
 
-## 📚 Materiais
+## ✨ Materiais
 
 - Imagens utilizadas em `assets`
 - Ebook gerado no Canva `output`
