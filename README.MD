@@ -68,4 +68,3 @@ Microsoft Copilot：
 </p>
 <p> <strong>Desenvolvido por</strong> </p> 
 <p> <strong>Luana Cardoso</strong> </p>
-##
