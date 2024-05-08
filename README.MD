@@ -43,8 +43,8 @@ ChatGPT：
 Microsoft Copilot：
 
 |  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| Imagens | geradas para o ebook de Python para iniciantes, com fundo espacial, elegante e moderno.
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Imagens | geradas para o ebook de Python para iniciantes, com fundo espacial, moderno e em azul.
 
 ## ✨ Recursos
 
