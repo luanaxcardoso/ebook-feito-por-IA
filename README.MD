@@ -21,7 +21,7 @@
 </p>
 
 
-* Este é um repositório desenvolvido para o Bootcamp do Santander sobre IA, pela plataforma da  [DIO](https://dio.me) e através dos ensinamentos do instrutor técnico Felipe Aguiar. 
+* Este é um repositório desenvolvido para o Bootcamp do Santander sobre IA, pela plataforma da  [DIO](https://dio.me) e através dos ensinamentos do instrutor técnico [Felipe Aguiar](https://github.com/felipeAguiarCode) 
 
 --------
 
